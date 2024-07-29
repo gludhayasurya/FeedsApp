@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/spritle/spritle.zip filter=lfs diff=lfs merge=lfs -text
